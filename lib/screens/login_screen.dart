@@ -156,7 +156,7 @@ class _DemoCredentials extends StatelessWidget {
   Widget build(BuildContext context) {
     return DecoratedBox(
       decoration: BoxDecoration(
-        color: const Color(0xFFEAF1FF),
+        color: const Color(0xFF7F9FE7),
         borderRadius: BorderRadius.circular(8),
       ),
       child: const Padding(
